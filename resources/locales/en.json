@@ -1,0 +1,11 @@
+{
+  "menu.file": "File",
+  "menu.view": "View",
+  "menu.help": "Help",
+  "action.exit": "Exit",
+  "action.settings": "Settings",
+  "action.export": "Export Packets...",
+  "dialog.about.title": "About",
+  "dialog.settings.title": "Settings",
+  "dialog.export.title": "Export Packets"
+}

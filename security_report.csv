@@ -1,0 +1,12 @@
+Network Security Report,2026-03-14 17:23:13
+Threat Level,🔴  CRITICAL
+Total Attacks Detected,63
+
+Attack Type,Count
+Port Scan,45
+DoS / SYN Flood,18
+
+Top Attacker IP,Hits
+10.107.16.102,108
+
+Blocked IPs

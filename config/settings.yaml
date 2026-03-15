@@ -1,0 +1,4 @@
+abuseipdb_api_key: 851a05b2c4e52b342e395ad368160066d35310cae2da11eedbaa72867d9972d3e0c44c7edad7010a
+default_ip_range: 192.168.1.0/24
+default_port_range: 1-1000
+vt_api_key: 2dd1d53280e8c8e8a89d898bb6ab6a96faa93fec3238c6c4ac701c3de935246c
